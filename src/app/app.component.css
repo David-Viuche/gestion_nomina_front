@@ -1,0 +1,14 @@
+header {
+  height: 5rem;
+  width: 100%;
+  background-color: darkcyan;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+header h1 {
+  font-size: x-large;
+}
